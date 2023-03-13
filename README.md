@@ -1,6 +1,6 @@
-Invoice Generator
-To generate bill shops
-language: Python
+<h2>Invoice Generator</h2><br>
+<h3>To generate bill shops<h3><br>
+<h3>language: Python</h3><br>
 
 Points Covered<br>
 ◉ Get a input from user<br>
