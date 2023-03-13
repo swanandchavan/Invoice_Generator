@@ -2,7 +2,7 @@
 <h3>To generate bill shops<h3>
 <h3>language: Python</h3>
 
-<h2>Points Covered</h2>
+<h4>Points Covered</h4>
 ◉ Get a input from user<br>
 ◉ User able to understand what input has to give<br>
 ◉ enter product_name, product_price, Qyantity of product<br>
