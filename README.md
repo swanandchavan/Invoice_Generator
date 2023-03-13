@@ -1,6 +1,6 @@
-<h2>Invoice Generator</h2><br>
-<h3>To generate bill shops<h3><br>
-<h3>language: Python</h3><br>
+<h2>Invoice Generator</h2>
+<h3>To generate bill shops<h3>
+<h3>language: Python</h3>
 
 Points Covered<br>
 ◉ Get a input from user<br>
